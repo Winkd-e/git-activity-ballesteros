@@ -2,5 +2,7 @@
 First activity.
 
 <html> 
-<h1>Hello World</h1>
+    <h2>Wendelyn Ballesteros</h2>
+    <h2>33-ITE-03</h2>
+    <h2>3rd Year Summer</h2>
 </html> 

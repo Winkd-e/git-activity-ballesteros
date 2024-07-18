@@ -1,3 +1,3 @@
 <html> 
-<h1>Sir ipasa niyo kami!</h1>
+<h1>Sir ibagsak nyo si Khrizzle Corpuz!</h1>
 </html> 
